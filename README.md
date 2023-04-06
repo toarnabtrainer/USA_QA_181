@@ -28,3 +28,11 @@ https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
 https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
 https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
 
+
+num1 = int(input("Please enter the first number: "))<br>
+num2 = int(input("\nPlease enter the second number: "))<br>
+print ()<br>
+print (num1, type(num1), num2, type(num2))<br>
+result = num1 + num2<br>
+print ("So", num1, "+", num2, "=", result)<br>
+print ("End of the program...")<br>
