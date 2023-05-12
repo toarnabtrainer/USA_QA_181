@@ -28,15 +28,7 @@ https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
 https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
 https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
 
-
-num1 = int(input("Please enter the first number: "))<br>
-num2 = int(input("\nPlease enter the second number: "))<br>
-print ()<br>
-print (num1, type(num1), num2, type(num2))<br>
-result = num1 + num2<br>
-print ("So", num1, "+", num2, "=", result)<br>
-print ("End of the program...")<br>
-
+<hr>
 
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
@@ -951,3 +943,4 @@ In the above examples, | represents the union operator, & represents the interse
 Frozen sets are useful in situations where you need a set that cannot be modified, such as when you want to use a set as a key in a dictionary or as an element in another set.
 
 <hr>
+
